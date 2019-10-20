@@ -4,6 +4,9 @@ Created on Tue Oct 15 18:26:31 2019
 
 @author: u325199
 """
+
+__version__ = "0.0.1"
+
 import pandas as pd
 
 def summary(df):
