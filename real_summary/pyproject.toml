@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit"]
+build-backend = "flit.buildapi"
+
+[tool.flit.metadata]
+module = "real_summary"
+author = "Praveen"
+author-email = "prvn012@gmail.com"
+home-page = "https://github.com/PraveenKumarGarlapati/real_summary"
+classifiers = ["License :: OSI Approved :: MIT License"]
+
